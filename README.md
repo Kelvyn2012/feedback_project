@@ -28,5 +28,5 @@ A simple API for collecting and managing guest feedback, built with Django and D
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/guest-feedback-api.git
-   cd guest-feedback-api
+   git clone https://github.com/Kelvyn2012/feedback_project.git
+   cd feedback_project
