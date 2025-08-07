@@ -35,7 +35,6 @@ INSTALLED_APPS = [
     "django.contrib.auth",
     "feedback",
     "rest_framework",
-    "feedback",
     "django.contrib.contenttypes",
     "django.contrib.sessions",
     "django.contrib.messages",
